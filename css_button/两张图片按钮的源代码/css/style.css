@@ -1,0 +1,10 @@
+/* CSS Document */
+#theLink{
+	display:block;
+	width:120px;
+	height:41px;
+	margin:0 auto;
+	background:url(../images/normal.gif) no-repeat;
+}
+#theLink:hover{background:url(../images/press.gif) no-repeat;}
+
